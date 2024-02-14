@@ -1,7 +1,7 @@
 
 [![MasterHead](https://repository-images.githubusercontent.com/443620153/e4b08970-8220-43a4-962f-d4db4f378d36)]
 <h1 align="center">Hi 👋, I'm Brenda Aramis</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aramisb&label=Profile%20views&color=0e75b6&style=flat" alt="aramisb" /> </p>
