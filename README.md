@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Python, C**
 
-- 📫 How to reach me **brendachem7@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
